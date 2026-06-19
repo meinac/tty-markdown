@@ -3,9 +3,9 @@
 require_relative "lib/tty/markdown/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "tty-markdown"
+  spec.name = "tty-markdown-meinac"
   spec.version = TTY::Markdown::VERSION
-  spec.authors = ["Piotr Murach"]
+  spec.authors = ["Piotr Murach", "Mehmet Emin INAC"]
   spec.email = ["piotr@piotrmurach.com"]
   spec.summary = "Convert a Markdown text or document into a terminal friendly output."
   spec.description = "Convert a Markdown text or document into a terminal friendly output."
